@@ -21,7 +21,7 @@ describe("index.js", () => {
   }
   
   init()
-
+//done
   describe("Konami code", () => {
     
     const spy = sinon.stub(window, "alert");
